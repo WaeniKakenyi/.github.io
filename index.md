@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Assignment 1 - 5th July 2021
+**1. Git vs Github**
 
-You can use the [editor on GitHub](https://github.com/WaeniKakenyi/Gearbox-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Git is a free and open source distributed version control system that is designed to handle projects irrespective of the size, with speed and efficiency. It is also defined as a version control system that records different version of a file. It lets users access, compare, update and distribute any of the recorded versions at any time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github is an online (web-based) platform where users can host Git repositories. It helps facilitate easy sharing and collaboration on projects with people anytime. It also encourages broader participation on open-source projects by providing a secure way to edit files in another user's repository.
 
-### Markdown
+[Git vs Github definitions](https://www.freecodecamp.org/news/git-and-github-overview/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2. What is version control?**
 
-```markdown
-Syntax highlighted code block
+Version Control is a method used to save a files version for future references.
+Version control allows for keeping track of work and helps in exploring changes made. It helps with the collaboration of projects with different people.
 
-# Header 1
-## Header 2
-### Header 3
+[Version Control definition](https://ourcodingclub.github.io/tutorials/git/)
 
-- Bulleted
-- List
+**3. What is Git pages?**
 
-1. Numbered
-2. List
+GitHub paages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. Its purpose is to provide the GitHub user a way to create personal websites for themselves and websites for their projects / repositories.
 
-**Bold** and _Italic_ and `Code` text
+[GitHub Pages definition](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
-[Link](url) and ![Image](src)
-```
+## Academic Challenges and their Solutions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WaeniKakenyi/Gearbox-projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
