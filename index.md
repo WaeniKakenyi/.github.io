@@ -1,4 +1,5 @@
-# Assignment 1 - 5th July 2021
+# MEDRINE WAENI 
+## Assignment 1 - 5th July 2021
 **1. Git vs Github**
 
 Git is a free and open source distributed version control system that is designed to handle projects irrespective of the size, with speed and efficiency. It is also defined as a version control system that records different version of a file. It lets users access, compare, update and distribute any of the recorded versions at any time.
